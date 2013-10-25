@@ -8,6 +8,7 @@ this is an animated splash! just include "splash.lua" to use!
 sample code
 ===========
 
+<pre>
 drawSplash = true
 
 function love.load()
@@ -30,3 +31,4 @@ function love.update()
 		updateSplash()
 	end
 end
+</pre>
